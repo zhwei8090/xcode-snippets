@@ -9,11 +9,13 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property(nonatomic, assign, readonly) &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>@property (nonatomic, assign, readonly) &lt;#type#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>32E2254E-F2F6-419B-B581-B6885C95A62B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Property For Assign And Readonly</string>
 	<key>IDECodeSnippetUserSnippet</key>
